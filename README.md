@@ -26,7 +26,7 @@ data-analyzer/
 
 ## 🛠️ Local Setup & Run
 ```bash
-git clone https://github.com
+[git clone https://github.com](https://github.com/Khushhal07/data-analyzer.git)
 cd data-analyzer
 pip install -r requirements.txt
 streamlit run app.py
